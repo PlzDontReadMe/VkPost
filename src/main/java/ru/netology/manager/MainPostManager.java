@@ -1,7 +1,5 @@
 package ru.netology.manager;
 
-import ru.netology.domain.Content;
-import ru.netology.domain.Header;
 
 public class MainPostManager {
     public AllManager[] managers;
